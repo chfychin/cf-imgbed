@@ -2,7 +2,7 @@
 
 免费图片托管解决方案，基于 Cloudflare Pages 和 Telegram （文件大小不超过20MB，过大图片会**自动压缩**）。
 
-**体验地址**：[Sanyue ImgHub (demo-cloudflare-imgbed.pages.dev)](https://demo-cloudflare-imgbed.pages.dev/)
+**体验地址**：[chfy imghub](https://dev.chfychin.site)
 
 > 访问码：cfbed
 >
